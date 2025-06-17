@@ -8,7 +8,7 @@ class HelloWorldClass {
         //short
         //int*
         //long
-        int age = 100; //Переменная(Характеристика)
+        int age = 110; //Переменная(Характеристика)
 
         //Дробные:
         //float
