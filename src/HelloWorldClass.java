@@ -74,5 +74,7 @@ class HelloWorldClass {
         System.out.println(1 == 1 ? "Yes" : "No");
 
         //CTRL+ALT+L - форматирование кода JavaCodeConvention
+
+        System.out.println("fdvdfbsw");
     }
 }
